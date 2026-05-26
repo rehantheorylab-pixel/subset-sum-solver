@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://rehantheorylab-pixel.github.io/35000x-faster-subset-sum-algorithm-n70/sitemap.xml
